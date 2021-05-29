@@ -5,5 +5,7 @@
 <br>
 
 ![Screenshot of deployed Model](static/ipl1.png)
-
+<br><br>
+<p>After fillings the details </p>
+<br>
 ![Screenshot of deployed Model](static/ipl2.png)
