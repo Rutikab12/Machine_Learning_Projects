@@ -3,4 +3,4 @@
 <p>This model will predict the first innings score when some details as shown in following images . </p>
 <br>
 <br>
-<img ![Screenshot of deployed Model](../static/ipl1.png)>
+![Screenshot of deployed Model] (../static/ipl1.png)
