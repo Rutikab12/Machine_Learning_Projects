@@ -3,4 +3,4 @@
 <p>This model will predict the first innings score when some details as shown in following images . </p>
 <br>
 <br>
-![Screenshot of deployed Model](https://octodex.github.com/images/yaktocat.png)
+![Screenshot of deployed Model](/static/ipl1.png)
