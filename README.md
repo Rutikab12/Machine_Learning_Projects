@@ -18,3 +18,6 @@ some used case problems
     predict the right class accordingly.</li>
     </ul> <br> 
 6. Loan Prediction Problem<br>
+7. IPL First innings score prediction<br>
+8. Superstore Data Analysis <br>
+9. Wine Quality Prediction <br>
