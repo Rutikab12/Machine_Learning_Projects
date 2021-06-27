@@ -21,3 +21,4 @@ some used case problems
 7. IPL First innings score prediction<br>
 8. Superstore Data Analysis <br>
 9. Wine Quality Prediction <br>
+10. Vehicle Data Analysis
